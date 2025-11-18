@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 10
+  _jumpForce: 200
 --- !u!65 &5133372
 BoxCollider:
   m_ObjectHideFlags: 0
